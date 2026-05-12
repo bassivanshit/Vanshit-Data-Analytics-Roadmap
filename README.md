@@ -72,3 +72,10 @@ All deliverables are assessed against four critical pillars:
 ---
 
 [cite_start]**© 2026 IMS College IT Department** *Confidential Academic Document — For Lab Session Reference* [cite: 19, 216]
+
+
+
+<img width="988" height="907" alt="image" src="https://github.com/user-attachments/assets/c657a8cf-9b6c-4cfd-b56b-4a3e6298d164" />
+
+
+
