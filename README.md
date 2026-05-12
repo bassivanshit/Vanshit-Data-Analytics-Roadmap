@@ -74,51 +74,24 @@ All deliverables are assessed against four critical pillars:
 [cite_start]**© 2026 IMS College IT Department** *Confidential Academic Document — For Lab Session Reference* [cite: 19, 216]
 
 
-
+Soft Skills & Data Analyst
 <img width="988" height="907" alt="image" src="https://github.com/user-attachments/assets/c657a8cf-9b6c-4cfd-b56b-4a3e6298d164" />
 
-1. Statistics
-"Statistical foundations are crucial for a data analyst because they form the basis of the data analysis process. Through statistical methods, a data analyst can use a scientific approach to understand, interpret, and report on data results."
+"What are the soft skills that a Data Analyst should have?"
 
-Youtube Channels & Videos
+Analytical Thinking: Analytical thinking skills are required to understand, manage and interpret data. A data analyst must use logical and critical thinking skills to analyze data and make decisions based on the results.
 
-[Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)
-Statistics - A Full University Course on Data Science Basics
-Statistics Course Overview | Best Statistics Course | MarinStatsLectures
-Crash Course: Statistics
-Statistics for Data Science Course | Probability and Statistics | Learn Statistics Data Science
-How I use Math as a Data Analyst?](url)
+Communication Skills: Data analysts must have effective communication skills to explain complex data by translating technical terms into easily understandable language and to interact with other team members. Sharing the results of data analysis and discussing action plans with other team members is important for a successful data analyst.
 
-Cheat Sheets & Books
+Problem Solving: A data analyst must identify problems by analyzing data and develop effective strategies to solve them. Therefore, problem-solving skills require a flexible approach that can adapt to the complexity and variability of data.
 
-[Statistics Cheatsheet - CME 106, Stanford University
-Statistics Cheat Sheet, MIT
-Descriptive Statistics Cheat Sheet, DataCamp
-Think Stats, by Allen B. Downey
-Statistics in Plain English, by Timothy C. Urdan
-Computer Age Statistical Inference, by Bradley Efron and Trevor Hastie](url)
+Teamwork: Data analysts must be effective in teamwork and be able to collaborate with team members to exchange ideas during the data analysis process. A data analyst may also interact with other teams (such as marketing, engineering, etc.), so teamwork skills are of great importance.
 
-2. Microsoft Excel
-"Excel is a commonly used tool for data analysis and is important for data analysts because it helps to organize, analyze, visualize, and manipulate data. Additionally, it is user-friendly and accessible to most data analysts."
+Business Understanding: A data analyst must have an understanding of business. Understanding business needs and goals can help in asking the right questions and obtaining the right results in data analysis.
 
-Youtube Channels & Videos
+Storytelling: A data analyst must have effective storytelling skills to communicate data. By presenting data in an understandable way, a data analyst can help in the effective use of data.
 
-[Microsoft Excel Tutorial for Beginners - Full Course, freeCodeCamp
-Excel Tutorials for Data Analysts
-Beginner to Pro FREE Excel Data Analysis Course
-Microsoft Excel Tutorial for Beginners | Excel Training | Excel Formulas and Functions | Edureka
-Advanced Excel Full Course 2023 | Excel Tutorial For Beginners | Excel Training | Simplilearn
-How I use Excel as a Data Analyst](url)
 
-Cheat Sheets & Books
-
-[Excel Quick Reference
-Excel Basics Cheat Sheet
-Hackr Excel Cheat Sheet
-Exceldemy Excel Cheat Sheet
-Microsoft Excel Manual, University of Mary Washington
-Excel Fundamentals, St. George’s University of London
-](url)
 
 
 
