@@ -77,5 +77,48 @@ All deliverables are assessed against four critical pillars:
 
 <img width="988" height="907" alt="image" src="https://github.com/user-attachments/assets/c657a8cf-9b6c-4cfd-b56b-4a3e6298d164" />
 
+1. Statistics
+"Statistical foundations are crucial for a data analyst because they form the basis of the data analysis process. Through statistical methods, a data analyst can use a scientific approach to understand, interpret, and report on data results."
+
+Youtube Channels & Videos
+
+[Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)
+Statistics - A Full University Course on Data Science Basics
+Statistics Course Overview | Best Statistics Course | MarinStatsLectures
+Crash Course: Statistics
+Statistics for Data Science Course | Probability and Statistics | Learn Statistics Data Science
+How I use Math as a Data Analyst?](url)
+
+Cheat Sheets & Books
+
+[Statistics Cheatsheet - CME 106, Stanford University
+Statistics Cheat Sheet, MIT
+Descriptive Statistics Cheat Sheet, DataCamp
+Think Stats, by Allen B. Downey
+Statistics in Plain English, by Timothy C. Urdan
+Computer Age Statistical Inference, by Bradley Efron and Trevor Hastie](url)
+
+2. Microsoft Excel
+"Excel is a commonly used tool for data analysis and is important for data analysts because it helps to organize, analyze, visualize, and manipulate data. Additionally, it is user-friendly and accessible to most data analysts."
+
+Youtube Channels & Videos
+
+[Microsoft Excel Tutorial for Beginners - Full Course, freeCodeCamp
+Excel Tutorials for Data Analysts
+Beginner to Pro FREE Excel Data Analysis Course
+Microsoft Excel Tutorial for Beginners | Excel Training | Excel Formulas and Functions | Edureka
+Advanced Excel Full Course 2023 | Excel Tutorial For Beginners | Excel Training | Simplilearn
+How I use Excel as a Data Analyst](url)
+
+Cheat Sheets & Books
+
+[Excel Quick Reference
+Excel Basics Cheat Sheet
+Hackr Excel Cheat Sheet
+Exceldemy Excel Cheat Sheet
+Microsoft Excel Manual, University of Mary Washington
+Excel Fundamentals, St. George’s University of London
+](url)
+
 
 
